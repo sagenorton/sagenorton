@@ -1,4 +1,4 @@
-![CoverImage](https://drive.google.com/file/d/1nFshb2lA_-Zv7RRyyriHByP0QncAjoog/view?usp=sharing)
+![CoverImage](/workspaces/sagenorton/assests/cover-image.jpg)
 
 
 ## 🥳 About Me
