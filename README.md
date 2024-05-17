@@ -1,4 +1,4 @@
-# Hi, I'm Sage! 😄
+![CoverImage](https://drive.google.com/file/d/1nFshb2lA_-Zv7RRyyriHByP0QncAjoog/view?usp=sharing)
 
 
 ## 🥳 About Me
