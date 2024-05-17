@@ -1,4 +1,4 @@
-![CoverImage](./workspaces/sagenorton/assets/cover-image.jpg)
+![CoverImage](./workspaces/sagenorton/img/cover-image.jpg)
 
 
 ## 🥳 About Me
