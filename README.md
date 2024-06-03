@@ -1,6 +1,3 @@
-![CoverImage](./img/all4.png)
-
-
 ## 🥳 About Me
 Hey there! I'm a front-end developer who loves dabbling in UX and UI design. I have a knack for bringing creative ideas to life through sleek, functional designs and some nifty coding. Right now, I'm diving headfirst into the world of mobile game development—it's a whole new playground for me, and I'm all in for the adventure!
 
@@ -27,3 +24,5 @@ My passion? Creating digital experiences that are not just easy on the eyes but 
 ![PHOTOSHOP](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![INDESIGN](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)
 ![AFTEREFFECTS](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)
+
+![CoverImage](./img/all4.png)
