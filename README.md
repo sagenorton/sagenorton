@@ -1,6 +1,6 @@
 ## 🥳 Blending creativity with code. 
 
-I specialize in transforming creative concepts into functional web realities, ensuring every design is as intuitive as it is visually appealing. 
+Transforming creative concepts into functional web realities, ensuring every design is as intuitive as it is visually appealing. 
 
 
 ## 🤗 Links
