@@ -1,5 +1,6 @@
-## 🥳 About Me
-I am Sage, a dedicated and innovative front-end web developer and graphic designer with a knack for creating engaging, user-friendly digital experiences. Blending creativity with code, I specialize in transforming creative concepts into functional web realities, ensuring every design is as intuitive as it is visually appealing. My expertise spans web development, UX/UI design, and custom coding using HTML, CSS, and JavaScript. I have led notable projects, such as the award-winning SFCC 2023 Graphic Design Grad Show website and the Mahalo Promotions website. Currently, I am diving into mobile game development, blending my technical skills with creative vision to craft immersive user interfaces. Passionate about both design and development, I am committed to pushing the boundaries of digital creativity. Beyond my professional endeavors, I am an avid Nintendo enthusiast, a lover of EDM festivals, and a proud cat parent, all of which fuel my creativity and zest for life.
+## 🥳 Blending creativity with code. 
+
+I specialize in transforming creative concepts into functional web realities, ensuring every design is as intuitive as it is visually appealing. 
 
 
 ## 🤗 Links
