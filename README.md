@@ -1,6 +1,6 @@
 ## 🥳 Blending creativity with code. 
 
-Blending creativity with code to build engaging, user-centered digital experiences.
+Transforming creative concepts into functional web realities, ensuring every design is as intuitive as it is visually appealing. 
 
 ## 🤗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://prplsage.netlify.app/)
