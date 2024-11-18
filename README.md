@@ -23,4 +23,4 @@ Transforming creative concepts into functional web realities, ensuring every des
 ![INDESIGN](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)
 ![AFTEREFFECTS](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)
 
-![CoverImage](./img/sage-kitties-illustration.svg)
+![CoverImage](./img/sage-kitties-illustration-resized.png)
